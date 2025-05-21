@@ -1925,4 +1925,26 @@ write.table(yield.sum , "SYM_output.csv",append=FALSE ,sep =";",col.names=FALSE 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 sink()

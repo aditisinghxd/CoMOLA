@@ -1801,4 +1801,9 @@ write.table(S, "SAR_output.csv",append=FALSE ,sep =";",col.names=FALSE ,row.name
 
 
 
+
+
+
+
+
 sink()
